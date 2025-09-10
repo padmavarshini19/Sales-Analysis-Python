@@ -12,7 +12,7 @@ This project analyzes customer shopping data to uncover **revenue drivers, consu
 
 👉 These insights help business stakeholders optimize product mix, refine target segments, and improve marketing ROI.  
 
-**Potential Impact:** +15–20% growth in revenue by targeting **female customers (35–40 age group)** with premium product offerings.  
+Insights could drive +15–20% revenue growth by focusing on **female customers (35–40 age group)** with premium offerings. 
 
 
 ## ❓ Business Problem  
